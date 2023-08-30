@@ -1,7 +1,8 @@
 ### Hi there 👋
+🌱 I’m currently learning ...
+
 ![GitHub's stats](https://github-stats.ubrong.com/api?username=ZherKing&show_icons=true&theme=onedark)
 
-![Language](https://github-stats.ubrong.com/api/top-langs/?username=ubrong&layout=compact&theme=ZherKing)
 
 ![Visitor Count](https://profile-counter.glitch.me/ZherKing/count.svg)
 <!--
