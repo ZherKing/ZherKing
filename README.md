@@ -3,6 +3,7 @@
 
 ![Language](https://github-stats.ubrong.com/api/top-langs/?username=ubrong&layout=compact&theme=ZherKing)
 
+![Visitor Count](https://profile-counter.glitch.me/ZherKing/count.svg)
 <!--
 **ZherKing/ZherKing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
