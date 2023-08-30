@@ -1,5 +1,5 @@
 ### Hi there 👋
-![GitHub's stats](https://github-stats.ubrong.com/api?username=ZherKing&show_icons=true&theme=merko)
+![GitHub's stats](https://github-stats.ubrong.com/api?username=ZherKing&show_icons=true&theme=onedark)
 
 <!--
 **ZherKing/ZherKing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
