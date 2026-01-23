@@ -1,7 +1,7 @@
 ### Hi there 👋
 🌱 I’m currently learning ...
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ZherKing&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
+[![ZherKing's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ZherKing)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub's stats](https://github-stats.ubrong.com/api?username=ZherKing&show_icons=true&theme=onedark)
 
