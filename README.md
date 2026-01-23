@@ -1,10 +1,10 @@
 ### Hi there 👋
 🌱 I’m currently learning ...
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ZherKing&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
+
 ![GitHub's stats](https://github-stats.ubrong.com/api?username=ZherKing&show_icons=true&theme=onedark)
 
-
-![Visitor Count](https://profile-counter.glitch.me/ZherKing/count.svg)
 <!--
 **ZherKing/ZherKing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
