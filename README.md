@@ -1,9 +1,11 @@
 ### Hi there 👋
 🌱 I’m currently learning ...
 
-[![ZherKing's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ZherKing&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub's stats](https://github-stats.ubrong.com/api?username=ZherKing&show_icons=true&theme=onedark)
+![ZherKing's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZherKing&card_width=495&show_icons=true&theme=transparent)
+
+
+[![ZherKing's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ZherKing&layout=compact&langs_count=14)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **ZherKing/ZherKing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
