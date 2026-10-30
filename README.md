@@ -1,11 +1,13 @@
-### Hi there 👋
-🌱 I’m currently learning ...
+### 👋你好，我是ZherKing。一位持续学习的开发者...
 
+---
 
-![ZherKing's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZherKing&card_width=495&show_icons=true&theme=transparent)
+### 📊 GitHub 状态台
 
-
-[![ZherKing's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ZherKing&layout=compact&langs_count=14)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img  alt="ZherKing's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/ZherKing?cardType=level&fontFamily=&preferLogin=false" />
+  <img src="https://streak-stats.demolab.com?user=ZherKing&theme=default&hide_border=true" alt="ZherKing's GitHub Stats" />
+</p>
 
 <!--
 **ZherKing/ZherKing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
